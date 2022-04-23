@@ -1,0 +1,341 @@
+
+
+@media (min-width: 1367px) and (max-width: 1920px) {
+	.lyr6 {font-size: 20px;}
+	.lyr7 {font-size: 40px;}
+	.lyr8 {font-size: 18px;line-height: 28px;}
+	.lyr9 {font-size: 18px;}
+}
+
+@media (max-width: 1366px) {
+	.toggle-item h2 {font-size: 18px;}
+	.venue-info {padding: 40px 30px}
+	.main-sec {padding: 300px 0 190px 0}
+}
+
+@media (max-width: 1200px) {
+	.navigations.style3 nav ul li a {font-size: 12px;}
+	.service h3 {line-height: 26px;}
+	.title p {padding: 0 200px;}
+	.toggle-item h2 {line-height: 30px;font-size: 15px;}
+	.content p {font-size: 14px;}
+	.toggle-item h2 {padding: 7px 30px;}
+	.project-cntr h1 {font-size: 40px;}
+	.suggest-links ul li {width: 33%;margin-right: 0;}
+	.menu-clips p {font-size: 18px;}
+	.team h3 {font-size: 26px;}
+	.team span {font-size: 15px;}
+	.blog-info {padding: 20px 40px;}
+	.title h1 {font-size: 48px;}
+	.title p {font-size: 18px;}
+	.feature h3 {font-size: 21px;}
+	.feature p {font-size: 16px;}
+	.searvice-features {padding-bottom: 70px;}
+	.client-comment h3::before {left: 33%;}
+	.client-comment h3::after {right: 33%;}
+	.suggest-links ul li i {font-size: 40px;}
+	nav ul li a {font-size: 15px;}
+	.about-conf {padding: 100px 20px 100px 0;}
+	.agenda-time span {font-size: 14px;}
+	.agenda-text p {line-height: 24px;}
+	.follow-twity a {font-size: 11px;padding: 10px 5px;}
+	.follow-twity {width: 31%;}
+	.usr-info {width: 48%;}
+	.app-details-bar.style2 .toggle-item h2 {font-size: 13px;}
+	.faq-img {height: 746px;}
+	.price-table h3 {padding: 20px 10px;}
+	.widget-sidebar {padding-left: 20px;}
+	.main-blog-info p {line-height: 24px;}
+	.main-sec-data {top: 43%;}
+	.main-sec-data h2 {font-size: 70px;}
+	.features-info p {font-size: 16px;}
+	.features-info h3 {font-size: 16px;line-height: 24px;}
+	.blog-post-details h3 {font-size: 15px;}
+	header.style2 nav ul li a {font-size: 13px;}
+	.banner-text {padding-top: 50px;}
+	.banner-text h2 {margin-bottom: 25px;}
+	.banner-text p {margin-bottom: 30px;}
+	.lyr10 img {padding-top: 60px;}
+	.app-details-bar {padding: 0 0 0 100px;}
+	.usr-info a {font-size: 14px;}
+	.usr-info span {font-size: 14px;}
+	.usr-info {padding-left: 15px;}
+	.tweet-date h4 {font-size: 14px;}
+	.blog_post_info p {font-size: 15px;}
+}
+
+@media (max-width: 991px) {
+	.main-sec {padding: 200px 0 100px 0}
+	.service {margin-bottom: 30px;}
+	.service-details {margin-bottom: -30px;}
+	.service:hover i {font-size: 60px}
+	.title p {padding: 0 100px;font-size: 16px;}
+	.title h1 {font-size: 40px;}
+	.feature {width: 50%;padding: 0 15px;margin-bottom: 30px;}
+	.app-img img {width: auto;max-width: 100%;float: none;margin: 40px 0;}
+	.app-img {text-align: center;}
+	.follow-twity i{padding-right: 0;}
+	.client-comment h3::before {left: 28%;}
+	.client-comment h3::after {right: 28%;}
+	.client-comment h3 {font-size: 36px;}
+	.client-comment span {font-size: 17px;}
+	.client-comment p {font-size: 15px;}
+	.appy-img img {max-width: 100%;width: auto;float: none;}
+	.appy-img {text-align: center;}
+	.app-details-bar {padding-left: 0;}
+	.project-cntr {margin-bottom: 40px;}
+	.projects-counter {margin-bottom: -40px;}
+	.menu-clips {margin-bottom: 60px;}
+	.appy-img.style2 {text-align: center;float: left;width: 100%}
+	.appy-img.style2 img {max-width: 100%;float: none;}
+	.team {margin-bottom: 40px;}
+	.our-team {margin-bottom: -40px;}
+	.blog-items .blog{padding: 0 15px;overflow: hidden;}
+	.blog-info {position: static;margin-top: 10px;padding: 20px 20px;}
+	.blog-info h4 {font-size: 20px;	}
+	.blog-info h5 {font-size: 17px;}
+	.blog-info p {font-size: 16px;line-height: 26px;}
+	.price {margin-bottom: 50px;}
+	.pricing-plans {margin-bottom: -50px;}
+	.footer-data p {font-size: 16px;}
+	.footer-data ul li {float: left;width: 50%;text-align: center;}
+	.footer-data ul li img {max-width: 90%;}
+	.block.footer-pd {padding: 70px 0;}
+	.navigations nav {display: none;}
+	.logo {width: 25%;}
+	.navigations {width: 75%;margin-top: 0}
+	.menu-btn {display: block;padding-left: 30px;}
+	.appy-carousel {padding-left: 0;width: 100%;text-align: center;}
+	.appy-carousel img {display: inline-block !important;}
+	.block {padding: 80px 0;}
+	.lyr10 img {padding-top: 80px;}
+	.about-conf p {line-height: 26px;}
+	.build-text h2 {font-size: 44px;}
+	.build-text p {font-size: 20px;}
+	.build-text h2 {margin-bottom: 20px;}
+	.title3 h2 {font-size: 42px;margin-bottom: 20px;}
+	.title3 p {font-size: 16px;}
+	.agenda-time h5 {font-size: 14px;}
+	.agenda-time {padding-left: 40px;}
+	.agenda-time span {line-height: 24px;}
+	.agenda-text h3 {font-size: 17px;}
+	.agenda-icon i {font-size: 70px;}
+	.follow-twity a {padding: 10px 13px;}
+	.counter-item {margin-bottom: 40px;}
+	.pro-counter {margin-bottom: -40px;}
+	.counter-item h2 {font-size: 60px;}
+	.counter-item span {font-size: 24px;}
+	.faq-questions-sec {padding-right: 30px;padding-left: 30px !important;}
+	.faq-img {height: 400px;}
+	.price-table {margin-bottom: 50px;}
+	.pricing-tables {margin-bottom: -50px;}
+	.blog_post {margin-bottom: 50px;}
+	.blog_posts {margin-bottom: -50px;}
+	.venue-info {margin-bottom: 40px;}
+	.venus-information {margin-bottom: -40px;}
+	.venue-info h2 {font-size: 36px;}
+	.footer-data2 ul li a {font-size: 50px;}
+	.main-sec-data {top: 42%;}
+	.main-sec-data h2 {font-size: 52px;}
+	.main-sec-data p {font-size: 18px;line-height: 28px;}
+	.widget-sidebar {margin-top: 60px;}
+	.insta-imgs .col-md-4 {padding: 0;}
+	.widget-sidebar .widget {margin-bottom: 60px;}
+	.post-comment {margin-bottom: 50px;}
+	.product-img {display: none;}
+	.banner-text {padding-top: 25px;}
+	.features2 {width: 50%;padding: 0 15px;}
+	.features2:nth-child(1) {padding-top: 0;}
+	.features-info h3 {margin-bottom: 10px;	}
+	.prod-img img {max-width: 40%;float: none;width: auto;}
+	.prod-img {width: 100%;text-align: center;margin: 40px 0;}
+	.client_comment p {font-size: 18px;line-height: 30px;}
+	.blog-post {margin-bottom: 40px;}
+	.blog-posts {margin-bottom: -40px;}
+	.contact-img {text-align: center;padding-top: 50px;padding-bottom: 50px;}
+	.contact-img img {float: none;max-width: 40%;width: auto;}
+	.locat ul li span {font-size: 16px;}
+	.locat h2 {font-size: 15px;}
+	.title2 h2 {font-size: 40px;}
+	.main-slider2 {padding: 200px 0 100px 0}
+	.blog .blog-info {transform: translateY(0);}
+	.blog-info p {font-size: 14px;line-height: 22px;}
+	.content p {font-size: 15px;line-height: 25px;}
+	.app-details-bar {margin-top: 50px;}
+	.app-details-bar.style2 {margin-top: 0;}
+	.post-comment {margin-top: 60px;}
+}
+
+@media (max-width: 767px) {
+	.service h3 {font-size: 16px;}
+	.title p {padding: 0 30px;}
+	.hd-feature i {width: 50px;height: 50px;line-height: 40px;font-size: 18px;}
+	.feature h3 {font-size: 17px;padding-left: 0;padding-right: 0;width: 100%;}
+	.feature.text-right h3 {padding-right: 0;}
+	.searvice-features {padding-bottom: 0;}
+	.client-comment p {padding: 0;}
+	.tb-name{padding: 0;}
+	.testimonial-sec .owl-nav {display: none;}
+	.client-comment h3::before {left: 20%;}
+	.client-comment h3::after {right: 20%;}
+	.app-video p {font-size: 15px;}
+	.toggle-item h2 {font-size: 13px;padding: 7px 15px;}
+	.menu-clips h2 {font-size: 40px;margin-bottom: 30px;}
+	.menu-clips p {font-size: 15px;}
+	.suggest-links ul li span {font-size: 15px;}
+	.newsletter form input {width: 100%;margin-bottom: 25px;}
+	.newsletter form button {float: none;text-align: center;}
+	.blog-items .blog {width: 100% ;margin-bottom: 50px;}
+	.blog-items {margin-bottom: -50px;}
+	.footer-data h2 {font-size: 26px;}
+	.footer-data p br {display: none;}
+	.footer-data ul li {padding: 0 15px;}
+	.footer-data ul {margin-bottom: 40px;}
+	.title p {font-size: 14px;}
+	.title h1 {font-size: 32px;}
+	.logo {width: 50%;}
+	.navigations {width: 50%;}
+	.lyr10 img {padding-top: 160px;}
+	header {padding-top: 40px;}
+	.about-conf {padding: 50px 20px;}
+	.conf-img i {font-size: 80px;}
+	.build-text h2 {font-size: 30px;}
+	.build-text p {font-size: 16px;line-height: 24px;}
+	.build-text p br {display: none;}
+	.block.less-padding3 {padding: 50px 0;}
+	.title3 h2 {font-size: 32px;}
+	.title3 p br {display: none;}
+	.tab-list ul li a {padding: 10px 20px;font-size: 20px;}
+	.tab-date span {font-size: 14px;}
+	.tab-date h4 {margin-bottom: 15px;font-size: 26px;}
+	.agenda-time h5 {line-height: 22px;}
+	.agenda-icon i {font-size: 45px;margin-top: 20px;}
+	.agenda-text h3 {line-height: 22px;font-size: 14px;}
+	.agenda-text p {font-size: 13px;}
+	.member-info h3 {font-size: 20px;}
+	.member-info span {font-size: 14px;}
+	.usr-info span {display: block;}
+	.usr-img {width: 15%;}
+	.counter-item h2 {font-size: 50px;}
+	.counter-item span {font-size: 20px;}
+	.app-details-bar.style2 .content p {padding: 15px;}
+	.faq-heading h2 {font-size: 17px;}
+	.venue-info i {font-size: 60px;}
+	.main-sec {padding-bottom: 100px;}
+	.main-sec-data {top: 39%;}
+	.main-sec-data h2 {font-size: 40px;}
+	.main-sec-data p br {display: none;}
+	.main-sec-data p {font-size: 15px;padding: 0 20px;}
+	.author-info p {font-size: 15px;padding-right: 0;}
+	.author-info h4 {font-size: 20px;}
+	.author-info h1 {margin-bottom: 15px;font-size: 30px;}
+	.author-info {padding-left: 20px;}
+	.banner-text h2 {font-size: 25px;}
+	.banner-text {top: auto;bottom: 0;transform: translateY(0);}
+	.banner-text p {display: none;}
+	.banner-text form input {margin-bottom: 20px;}
+	.main-slider2 {padding-bottom: 60px;}
+	.features2 {width: 100%;padding: 0 15px;}
+	.get-data h2 {font-size: 26px;}
+	.get-data p {font-size: 14px;}
+	.client_comment i {font-size: 70px;margin-bottom: 20px;}
+	.client_comment h2 {font-size: 25px;}
+	.follow-us {text-align: center;margin-bottom: 40px;}
+	.main-sec {padding: 150px 0 50px 0}
+	.follow-us img {float: none;}
+	.main-slider2 {padding: 140px 0 100px 0}
+	.feature p {font-size: 14px;}
+	.app-video h2 {font-size: 28px;}
+	.main-sec-data p {line-height: 22px;}
+	.newsletter form button {font-size: 16px;}
+	.main-blog-info h3 {font-size: 18px;}
+	.main-blog-info h3 {line-height: 22px;}
+	.main-blog-info p {font-size: 14px;}
+	.title-scnd {font-size: 28px;}
+	.footer-data p {line-height: 26px;}
+}
+
+@media (max-width: 480px) {
+	.full-wdth {width: 100%;}
+	.title p {padding: 0;}
+	.feature {width: 100%;}
+	.client-comment h3 {font-size: 26px;}
+	.client-comment h3::before {left: 10%;}
+	.client-comment h3::after {right: 10%;}
+	.client-comment span {font-size: 14px;}
+	.client-comment p {font-size: 14px;}
+	.app-video h2 {font-size: 22px;}
+	.app-video p {font-size: 14px;line-height: 22px;}
+	.title h1 {font-size: 24px;}
+	.menu-clips {padding-right: 0;}
+	.suggest-links ul li {width: 50%;margin-bottom: 30px;}
+	.suggest-links ul {margin-bottom: -30px;}
+	.suggest-links ul li:last-child {margin-bottom: 0;}
+	.price ul li span {font-size: 16px;}
+	.footer-data h2 {font-size: 19px;}
+	.footer-data p {font-size: 14px;}
+	.footer-data ul li img {max-width: 100%;}
+	.logo {width: 55%;}
+	.navigations {width: 45%;}
+	header {padding-top: 30px;}
+	.about-conf h2 {font-size: 24px;margin-bottom: 20px;}
+	.conf-img {height: 300px !important;}
+	.build-text h2 {font-size: 22px;}
+	.tab-list ul li a {padding: 10px 10px;font-size: 16px;}
+	.agenda-time {padding-left: 25px;}
+	.agenda-icon i {font-size: 28px;margin-top: 24px;}
+	.title3 h2 {font-size: 24px;}
+	.usr-info {padding-left: 30px;}
+	.usr-info a {font-size: 14px;}
+	.follow-twity a {padding: 10px 5px;}
+	.faq-heading h2 strong {font-size: 24px;}
+	.faq-heading h2 {font-size: 11px;}
+	.app-details-bar.style2 .toggle-item h2 {font-size: 12px;line-height: 20px;}
+	.faq-img {height: 250px;}
+	.blog_post_info h3 {font-size: 20px;}
+	.blog_post_info p {font-size: 16px;}
+	.footer-data2 ul li a {font-size: 32px;}
+	.footer-data2 p {line-height: 26px;}
+	.footer-data2 ul li {padding: 0 5px;}
+	.main-sec-data h2 {margin-bottom: 15px;}
+	.main-sec {padding-bottom: 180px;}
+	.main-sec-data p {font-size: 14px;}
+	.main-blog-info {padding: 25px 15px;}
+	.main-blog-info h3 {font-size: 16px;}
+	.widget-follow ul li a {font-size: 24px;}
+	.author-info {width: 100%;float: left;display: unset; padding-left: 0}
+	.author-img {display: unset;margin-bottom: 25px;float: left;}
+	.user-img {display: unset;}
+	.user-comment {padding-left: 0;display: unset;width: 100%;float: left;margin-top: 20px;}
+	.user-comment h2 {font-size: 26px;}
+	.user-comment span {font-size: 18px;margin-bottom: 20px;}
+	.user-comment p {font-size: 14px;}
+	.title-scnd {font-size: 24px;}
+	.banner-text h2 {font-size: 20px;margin-bottom: 15px;}
+	.main-slider2 {padding-bottom: 120px;}
+	.banner-text form input {height: 40px;}
+	.banner-text form button {font-size: 18px;padding: 10px 30px;}
+	.title2 h2 {font-size: 30px;}
+	.get-data h2 {font-size: 18px;}
+	.get-data p {line-height: 22px;}
+	.locat h2 {line-height: 22px;}
+	.blog-posts {margin-bottom: -80px;}
+	.buy-now {display: none;}
+	.main-sec {padding: 150px 0 50px 0}
+	.main-slider2 {padding: 120px 0 50px 0}
+	.title p {line-height: 22px;}
+	.toggle-item h2 {line-height: 18px;}
+	.toggle-item h2 {font-size: 14px;}
+	.content p {font-size: 14px;line-height: 23px;}
+	.menu-clips p {line-height: 24px;}
+	.blog-info h4 {font-size: 18px;}
+	.blog-info h5 {font-size: 15px;}
+	.footer-data p {line-height: 23px;}
+	.agenda-time span {font-size: 12px;line-height: 20px;}
+	.agenda-time h5 {font-size: 12px;line-height: 20px;}
+	.title3 p {font-size: 14px;line-height: 23px;}
+	.twitter-widget > p {font-size: 15px;}
+	.app-details-bar.style2 .content p {font-size: 13px;}
+	.main-sec-data p {line-height: 22px;}
+	.title-scnd {font-size: 18px;letter-spacing: initial;}
+}
