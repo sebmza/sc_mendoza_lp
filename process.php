@@ -1,7 +1,7 @@
 <?php
 if($_POST['axn'] == 'contact_2' and isset($_POST['username']) != ""){
 	
-			$to = "shmai.com@gmail.com";
+			$to = "consultas@somoscerveceros.com";
 			$from =  $_POST["email"];
 			$message = "&nbsp;&nbsp;&nbsp;&nbsp;<strong>Name: </strong>".$_POST["username"]."<br />";
 			$message .= "&nbsp;&nbsp;&nbsp;&nbsp;<strong>Email Address: </strong>".$_POST["email"]."<br />";
@@ -27,7 +27,7 @@ if($_POST['axn'] == 'contact_2' and isset($_POST['username']) != ""){
 }
 if($_POST['axn'] == 'contact_3' and isset($_POST['username']) != ""){
 	
-			$to = "shmai.com@gmail.com";
+			$to = " consultas@somoscerveceros.com";
 			$from =  $_POST["email"];
 			$message = "&nbsp;&nbsp;&nbsp;&nbsp;<strong>Name: </strong>".$_POST["username"]."<br />";
 			$message .= "&nbsp;&nbsp;&nbsp;&nbsp;<strong>Email Address: </strong>".$_POST["email"]."<br />";
